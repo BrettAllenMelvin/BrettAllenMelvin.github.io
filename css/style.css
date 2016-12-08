@@ -9,7 +9,7 @@
 /* Navbar title */
 .navbar-default .navbar-brand {
   color: black;
-  font-size: 20px;
+  font-size: 25px;
   font-weight: bold;
 }
 
@@ -48,7 +48,7 @@
 .portfolio-thumbnail2 {
   background-color: #fff;
   border-color: #088F51;
-  border-width: 1px;
+  border-width: 0px;
   width: 106%;
 }
 .portfolio-thumbnail:hover {
