@@ -1,16 +1,17 @@
 /***** NAVBAR *****/
 .navbar-default {
-  background-color: #088F51;
+  background-color: #61614e;
   border-radius: 0;
-  font-family: Impact, sans-serif;
+  font-family: Helvetica, sans-serif;
+  font-variant: small-caps;
   background-image: none;
 }
 
 /* Navbar title */
 .navbar-default .navbar-brand {
-  color: black;
-  font-size: 25px;
-  font-weight: bold;
+  color: white;
+  font-size: 26px;
+  font-weight: italic;
 }
 
 /* Navbar hover effects */
@@ -18,12 +19,12 @@
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-    color: #ebd122;
+    color: #ffff;
 }
 
 /* Navbar links */
 .navbar-default .navbar-nav > li > a {
-  color: #fff;
+  color: black;
   font-size: 16px;
 }
 
@@ -34,29 +35,28 @@
 
 .navbar-header .navbar-toggle:hover,
 .navbar-header .navbar-toggle:focus {
-  background-color: #ebd122;
-  color: #242424;
+  background-color: #ffff;
+  color: ;
 }
 
 /*** Portfolio pieces ***/
 .portfolio-thumbnail {
   background-color: #fff;
-  border-color: #088F51;
-  border-width: 4px;
-  width: 27%;
+  
+  border-width: px;
+  width: 23%;
 }
 .portfolio-thumbnail2 {
-  background-color: #fff;
-  border-color: #088F51;
-  border-width: 0px;
-  width: 106%;
+  
+  width:100%;
 }
-.portfolio-thumbnail:hover {
-  border-color: #ebd122;
+.portfolio-thumbnail:hover
+.portfolio-thumbnail:blur {
+  border-color: #0000;
 }
 
 .portfolio-title {
-  font-weight: bold;
+  font-weight:;
 }
 
 .portfolio-description {
@@ -74,8 +74,8 @@
   font-weight: bold;
 }
 h7 {
-  color: #088F51;
-  
+  color: white;
+  font-weight: underline;
 }
 h8 {
   padding: 5%;
@@ -95,11 +95,11 @@ a {
 }
 
 a:hover {
-  color: #ebd122;
+  color: black;
 }
 
 .jumbotron {
-  background-image: url("../assets/bright_squares_@2X.png");
+  background-image: url("../assets/green_cup.png");
   
   color: #black;
   padding: 4%;
@@ -114,7 +114,7 @@ a:hover {
 body {
 	
   padding-top: 0px;
-  font-family: Impact, Charcoal, sans-serif;
-  background-image: url("../assets/bright_squares_@2X.png");
+  font-family: Helvetica, sans-serif;
+  background-image: url("../assets/green_cup.png");
   color: #black;
 }
