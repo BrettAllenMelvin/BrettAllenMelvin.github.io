@@ -75,11 +75,15 @@
   font-weight: bold;
 }
 h7 {
-  color: white;
+  color: #596F3E;
   font-weight: underline;
 }
 h8 {
   padding: 5%;
+  
+}
+h9 {
+  font-family:Agency FB ;
   
 }
 hr {
@@ -100,7 +104,7 @@ a:hover {
 }
 
 .jumbotron {
-  background-image: url("../assets/green_cup.png");
+  background-image: url("../assets/pw_maze_white.png");
   
   color: #black;
   padding: 4%;
@@ -115,7 +119,7 @@ a:hover {
 body {
 	
   padding-top: 0px;
-  font-family: Helvetica, sans-serif;
-  background-image: url("../assets/green_cup.png");
+  font-family: Agency FB;
+  background-image: url("../assets/pw_maze_white.png");
   color: #black;
 }
