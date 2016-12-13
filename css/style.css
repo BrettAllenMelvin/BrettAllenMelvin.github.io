@@ -48,7 +48,12 @@
 }
 .portfolio-thumbnail2 {
  
-  font-family: calibri;
+  font-family: Agency FB;
+  width:100%;
+}
+.portfolio-thumbnail3 {
+ 
+  font-family: Agency FB;
   width:100%;
 }
 .portfolio-thumbnail:hover
@@ -83,7 +88,8 @@ h8 {
   
 }
 h9 {
-  font-family:Agency FB ;
+  font-family:Agency FB;
+  font-weight: 600;
   
 }
 hr {
@@ -120,6 +126,7 @@ body {
 	
   padding-top: 0px;
   font-family: Agency FB;
+  font-weight: bold;
   background-image: url("../assets/pw_maze_white.png");
   color: #black;
 }
